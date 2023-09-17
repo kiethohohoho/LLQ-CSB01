@@ -1,0 +1,2 @@
+Câu 2:
+Cấu trúc if... được sử dụng để kiểm tra một điều kiện và thực hiện một hành động nếu điều kiện đúng. Cấu trúc if... else... được sử dụng để kiểm tra một điều kiện, và nếu điều kiện đúng, thực hiện một hành động, còn nếu điều kiện sai, thực hiện một hành động khác. Điểm khác biệt chính là cấu trúc if... chỉ có một phần thực hiện hành động khi điều kiện đúng, trong khi if... else... có hai phần thực hiện hành động tương ứng với điều kiện đúng và điều kiện sai.

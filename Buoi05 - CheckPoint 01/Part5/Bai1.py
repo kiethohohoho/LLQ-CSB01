@@ -1,6 +1,8 @@
 print("== FREAKING MATH CONSOLE ==")
 print("Give correct answers to get scores.")
 print()
+turns = int(input("How many turns you want to play? "))
+print()
 
 def random_calculation(n):
     if n == 1:
@@ -23,7 +25,6 @@ def get_correct_result(left, calculation, right):
         return left / right
 
 from random import *
-turns = 5
 i = 1
 scores = 0
 while i <= turns:
@@ -44,4 +45,4 @@ while i <= turns:
     i += 1
 print()
 print("== GAME OVER ==")
-print(f"Your total score is {scores}")
+print(f"Your total score is {scores}/{turns}")

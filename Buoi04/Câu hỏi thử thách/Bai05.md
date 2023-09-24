@@ -1,0 +1,1 @@
+B. In ra tối đa 3 chữ số đầu tiên của num.

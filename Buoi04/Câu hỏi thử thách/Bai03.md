@@ -1,0 +1,1 @@
+Đáp án: B. Các câu lệnh trong cấu trúc while có thể bị bỏ qua và không được thực thi.

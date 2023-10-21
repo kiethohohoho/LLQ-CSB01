@@ -8,4 +8,4 @@ n = int(input("Input number: "))
 result = 0
 for i in range(1, n+1):
   result += factorial(i) / i
-print("Result:", result)
+print("Result:", int(result))
